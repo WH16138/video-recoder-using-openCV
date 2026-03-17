@@ -57,7 +57,7 @@ The motion detection in this project is based on a simple background subtraction
 ## Demo
 
 YouTube Demo:  
-https://youtube.com/your_video_link_here
+https://youtu.be/MmohSZivIHQ
 
 ---
 
