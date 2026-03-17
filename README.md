@@ -49,7 +49,7 @@ The motion detection in this project is based on a simple background subtraction
 ### Preview Mode
 ![preview](./assets/preview.png)
 
-### Record Mode with Motion Detection
+### Record Mode
 ![record](./assets/record.png)
 
 ### Motion Mask Visualization
